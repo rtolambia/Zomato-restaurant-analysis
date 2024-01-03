@@ -8,3 +8,7 @@ Power BI
 
 ## Tasks:
 
+Data loading in Power BI
+Data Cleaning
+Creating measures
+Dashboard
