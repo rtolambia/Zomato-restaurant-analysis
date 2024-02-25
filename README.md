@@ -12,3 +12,6 @@ Data loading in Power BI
 Data Cleaning
 Creating measures
 Dashboard
+
+## Dashboard:
+https://drive.google.com/file/d/1yaoj0TJc9w61zytFiQ2yXvEBQ-MquhRm/view?usp=drive_link
